@@ -11,6 +11,25 @@ I have a deep passion for:
 - **Moviemaking, art, and design** I love to express myself by finding different outlets. It is, in essence, true human experience.
 - In general, I'm a curious person that loves to explore and learn :)
 
+## My Skills:
+## My Skills
+
+I possess a diverse range of skills that span various technical, creative, and leadership domains, allowing me to contribute effectively to any team or project. My expertise includes:
+
+- **Web Development**: HTML, and CSS, and beginner in javascript.
+- **Python**: Strong command of Python, enabling me to automate processes, analyze data, and build efficient solutions from my studies at KTH.
+- **Problem Solving**: I have a keen ability to approach complex challenges logically and develop innovative solutions.
+- **Risk Management**: Experienced in identifying, assessing, and mitigating risks within projects to ensure smooth execution.
+- **Management & Leadership**: Skilled in team management, fostering collaboration, and driving teams towards achieving common goals.
+- **Advisory & Consulting**: I provide strategic advice to optimize workflows, processes, and technical implementations.
+- **Design and Creation**: My creative background allows me to design and conceptualize projects, from web applications to films.
+- **Project Management**: Proficient in planning, organizing, and managing resources to bring projects from concept to completion.
+- **Project Development**: Extensive experience in building and developing projects, ensuring that they align with business objectives and timelines.
+- **Sustainability and Innovation**: Combining technical knowledge with a passion for sustainable development to create solutions that positively impact both the environment and society.
+
+My varied skill set enables me to adapt to different roles and challenges, whether it’s leading a team, solving technical problems, or creating innovative designs.
+
+
 ## My Goals:
 I aim to merge my technical expertise in civil engineering and sustainability with my knowledge of web development to create innovative solutions that balance technological advancements with human values.
 
