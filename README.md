@@ -1,6 +1,6 @@
 # Hello There! 👋
 
-My name is Ali, and I am pursuing a degree in Civil Engineering at KTH, focusing on Industrial Technology and Sustainability with a master's degree in industrial management. In addition to my engineering studies, I have also studied web development at Mid University. 
+My name is Ali, and I am pursuing a degree in Civil Engineering at KTH, focusing on Industrial Technology and Sustainability with a master's degree in industrial management. In addition to my engineering studies, I am studying web development at Mid University. 
 
 ## My Interests:
 I have a deep passion for:
