@@ -12,8 +12,6 @@ I have a deep passion for:
 - In general, I'm a curious person that loves to explore and learn :)
 
 ## My Skills:
-## My Skills
-
 I possess a diverse range of skills that span various technical, creative, and leadership domains, allowing me to contribute effectively to any team or project. My expertise includes:
 
 - **Web Development**: HTML, and CSS, and beginner in javascript.
