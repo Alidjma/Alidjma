@@ -2,7 +2,8 @@
 
 Mitt namn är Ali, och jag studerar Civilingenjör inom Industriell Teknik och Hållbarhet på KTH, med en master inom industriell ekonomi. Utöver mina ingenjörsstudier läser jag även webbutveckling vid Mittuniversitetet, där jag utvecklar mina färdigheter inom både frontend- och backend-tekniker.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Inom_till%C3%A4mpad_Webbutveckling-brightgreen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--mohammad-blue)](https://www.linkedin.com/in/ali-mohammad-a0786061m/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Inom_till%C3%A4mpad_Webbutveckling-brightgreen)](https://studenter.miun.se/~almo2406/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--mohammad-blue)](https://www.linkedin.com/in/ali-mohammad-a0786061m/)
+
 
 ---
 
