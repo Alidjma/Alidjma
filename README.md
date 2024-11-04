@@ -2,7 +2,7 @@
 
 Mitt namn är Ali, och jag studerar Civilingenjör inom Industriell Teknik och Hållbarhet på KTH, med en master inom industriell ekonomi. Utöver mina ingenjörsstudier läser jag webbutveckling vid Mittuniversitetet.
 
-[Portfolio Webbuutveckling:](https://www.linkedin.com/in/ali-mohammad-a0786061m/)
+[Portfolio till Webbuutveckling](https://www.linkedin.com/in/ali-mohammad-a0786061m/)
 
 ## Mina intressen:
 Jag har ett starkt intresse för:
