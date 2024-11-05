@@ -4,19 +4,6 @@ Mitt namn är Ali, och jag studerar Civilingenjör inom Industriell Teknik och H
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Inom_till%C3%A4mpad_Webbutveckling-brightgreen)](https://studenter.miun.se/~almo2406/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--mohammad-blue)](https://www.linkedin.com/in/ali-mohammad-a0786061m/)
 
-
----
-
-## 💡 Mina Intressen
-
-Jag brinner för många områden och älskar att utforska ämnen som kombinerar kreativitet, teknik och mänskliga värderingar:
-
-- **Konst, Historia och Religion**: Utforskar hur dessa former påverkar kulturen och vår värld.
-- **Psykologi och Filosofi**: Nyfiken på hur vi tänker och agerar.
-- **Teknik och Hållbarhet**: Drivs av att kombinera teknologi och hållbara metoder.
-- **Automation och Digitalisering**: Vill göra världen mer effektiv med teknik.
-- **Film, Konst och Design**: Gillar att skapa och uttrycka kreativitet på olika sätt.
-
 ---
 
 ## 🚀 Färdigheter och Erfarenheter
